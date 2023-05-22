@@ -17,16 +17,16 @@
  <br>
  
  <div align="center">
-  <a href="https://www.linkedin.com/in/wajeeh-haider3408/" target="_blank">
+  <a href="https://www.linkedin.com/in/Innocentrehman911/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:swajeeh03@gmail.com" target="_blank">
+  <a href="mailto:innocnet0900@gnail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
+  <a href="https://www.instagram.com/Innocentrehman911/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+  <a href="https://www.facebook.com/Abdul Rehman" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
@@ -112,9 +112,9 @@
 <p align="center">
 <a href="https://github.com/Wajeeh-Haider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-haider&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Innocentrehman911=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&show_icons=true&locale=en&layout=demo&theme=dark" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Innocentrehman911&show_icons=true&locale=en&layout=demo&theme=dark" />
 </p>
 </p>
 <br>
@@ -122,7 +122,7 @@
 
 <!-- ## 🚀Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/Innocentrehman911/Innocentrehman911/blob/main/github-metrics.svg" />
 </p>
 <br> -->
 
@@ -153,7 +153,7 @@
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
+  <img src="https://profile-counter.glitch.me/Innocentrehman911/count.svg" />
 </p>
 
 
